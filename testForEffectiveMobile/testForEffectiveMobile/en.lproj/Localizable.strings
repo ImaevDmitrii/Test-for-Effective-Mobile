@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  testForEffectiveMobile
+
+  Created by Dmitrii Imaev on 30.05.2024.
+  
+*/
+"login" = "Вход в личный кабинет";
+"search_job" = "Поиск работы";
+"email" = "Электронная почта";
+"continue" = "Продолжить";
+"login_with_password" = "Войти с паролем";
+"invalid_email_error" = "Вы ввели неверный e-mail";
+"search_employee" = "Поиск сотрудников";
+"job_description" = "Размещение вакансий и доступ к базе резюме";
+"I_search_employee" = "Я ищу сотрудников";
+"codeSent" = "Отправили код на ";
+"code_verification_description" = "Напишите его, чтобы подтвердить, что это вы, а не кто-то другой входит в личный кабинет";
+"confirm" = "Подтвердить";
+"reply" = "Откликнуться";
+"published" = "Опубликовано";
+"loking_now" = "Сейчас просматривает";
+"people" = "человек";
+"peoples" = "человека";
+"position" = "Должность";
+"keywords" = "ключевые слова";
+"vacancy_for_you" = "Вакансии для вас";
+"more" = "Еще";
+"oneVacancy" = "вакансия";
+"vacancy" = "вакансии";
+"vacancies" = "вакансий";
+"back" = "Назад";
+"yourTasks" = "Ваши задачи";
+"askQuestion" = "Задайте вопрос работодателю";
+"receivedWithResponse" = "Он получит его с откликом на вакансию";
+"respond" = "Откликнуться";
+"requiredExperience" = "Требуемый опыт: ";
+"appliedNumberText" = " уже откликнулись";
+"lookingNumberText" = " сейчас смотрят";
+"companyText" = "Компания: ";
+"removeFromFavorites" = "Удалить из избранного";
+"addToFavorites" = "Добавить в избранное";
+"search" = "Поиск";
+"favorites" = "Избранное";
+"responses" = "Отклики";
+"messages" = "Сообщения";
+"profile" = "Профиль";
